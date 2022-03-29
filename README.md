@@ -1,1 +1,1 @@
-Basic games using if statements, while loops, random number generators and simple logic.
+Basic games using basic data structures, random number generators and simple programming logic.
